@@ -1,70 +1,78 @@
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">Full Stack Software Engineer | Building Scalable Web Applications</h3>
+<h1 align="center">Hi 👋, I'm Sahil Gagan</h1>
+<h3 align="center">🚀 Full Stack Software Engineer | Building Scalable Web Platforms</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;I+build+Production+Grade+Web+Applications;React+%7C+Node+%7C+Distributed+Systems;Ecommerce+%7C+SaaS+%7C+Social+Platforms;From+Database+to+Deployment" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Software+Engineer;React+%7C+Node+%7C+Distributed+Systems;Building+Ecommerce+Platforms;Creating+Multi-Tenant+SaaS+Applications;Designing+Scalable+Backend+Systems;From+Database+to+Deployment" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 I am a **Full Stack Software Engineer** focused on building **scalable, production-ready applications**.
 
-I enjoy designing and shipping complete products — from **frontend UI to backend architecture, database design, and cloud deployment.**
+I specialize in designing **complete systems end-to-end**, including:
 
-💡 I have built systems across multiple domains including:
+• Modern Frontend Applications
+• Scalable Backend APIs
+• Database Architecture
+• Multi-Tenant SaaS Systems
+• Cloud Deployment & DevOps
+
+💡 I have built projects across multiple domains:
 
 * 🛒 **Ecommerce Platforms**
 * 🏢 **Multi-Tenant SaaS Applications**
 * 🌐 **Social Media Platforms**
-* 📊 **Dashboards & Analytics Systems**
-* 🔐 **Authentication & Authorization Systems**
-* ⚡ **Real-time Applications**
+* 📊 **Analytics Dashboards**
+* 🔐 **Authentication Systems**
+* ⚡ **High Performance APIs**
 
-I love solving complex problems and turning ideas into **real, usable products.**
+My focus is building **real systems that scale**, not just small demos.
 
 ---
 
-# 🧠 Core Engineering Skills
+# 🧠 Engineering Skills
 
-### Frontend Development
+## Frontend Development
 
 * React.js
 * Next.js
-* JavaScript / TypeScript
-* HTML5 / CSS3
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
 * TailwindCSS
 * Responsive UI Design
-* State Management
+* Component Architecture
 
-### Backend Development
+## Backend Development
 
 * Node.js
 * Express.js
 * REST APIs
 * Authentication & Authorization
+* Scalable API Architecture
 * Microservices Concepts
-* API Design
-* Background Jobs / Async Processing
+* Async Processing
 
-### Database & Data Layer
+## Database & Data Layer
 
 * MongoDB
-* SQL / PostgreSQL
-* Database Schema Design
-* Query Optimization
-* Multi-tenant Architecture
+* PostgreSQL
+* SQL
 * Data Modeling
+* Query Optimization
+* Multi-Tenant Database Design
 
-### DevOps & Deployment
+## DevOps & Infrastructure
 
 * Docker
 * CI/CD Pipelines
 * Cloud Deployment
 * Linux Server Management
-* Git & GitHub
-* Production Monitoring
+* Git / GitHub
+* Containerized Applications
 
 ---
 
@@ -76,7 +84,19 @@ I love solving complex problems and turning ideas into **real, usable products.*
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Domains I Have Built In
+
+✔ Ecommerce Platforms
+✔ Multi-Tenant SaaS Systems
+✔ Social Media Platforms
+✔ Authentication Systems
+✔ Dashboard Applications
+✔ REST API Platforms
+✔ Full Product Architectures
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sahil2k19&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,51 +112,11 @@ I love solving complex problems and turning ideas into **real, usable products.*
 
 ---
 
-# 🔥 Highlight Projects
+# 🧩 LeetCode Stats
 
-### 🛒 Ecommerce Platform
-
-A full ecommerce system including:
-
-* product catalog
-* authentication
-* order management
-* payments
-* admin dashboard
-
-Built with scalable backend APIs and modern frontend architecture.
-
----
-
-### 🏢 Multi-Tenant SaaS Application
-
-A SaaS platform supporting **multiple organizations in a single system**.
-
-Features include:
-
-* tenant isolation
-* role-based access control
-* subscription logic
-* scalable backend architecture
-
----
-
-### 🌐 Social Media Platform
-
-A platform where users can:
-
-* create profiles
-* share posts
-* interact with other users
-* build communities
-
-Includes **real-time features and scalable backend APIs.**
-
----
-
-### 📊 Data Dashboard & Analytics
-
-A system designed for **visualizing large datasets** with dynamic dashboards and APIs.
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sai-GrieZ?theme=dark&font=Baloo&ext=contest" />
+</p>
 
 ---
 
@@ -148,20 +128,24 @@ A system designed for **visualizing large datasets** with dynamic dashboards and
 
 ---
 
-# 🌍 Let's Connect
+# 🌍 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/sahil-gagan/">
+<img src="https://img.shields.io/badge/LinkedIn-Sahil_Gagan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:sahilgagancp@gmail.com">
+<img src="https://img.shields.io/badge/Email-sahilgagancp@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/sahil2k19">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<a href="https://leetcode.com/u/Sai-GrieZ/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="tel:+919911155819">
+<img src="https://img.shields.io/badge/Contact-9911155819-green?style=for-the-badge&logo=whatsapp"/>
 </a>
 
 </p>
@@ -175,5 +159,5 @@ A system designed for **visualizing large datasets** with dynamic dashboards and
 ---
 
 <p align="center">
-💻 Building scalable systems • 🚀 Shipping real products • ⚡ Always learning
+⚡ Building Scalable Systems • 🚀 Shipping Real Products • 💡 Always Learning
 </p>
