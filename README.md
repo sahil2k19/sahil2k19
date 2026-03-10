@@ -11,15 +11,9 @@
 
 I am a **Full Stack Software Engineer** focused on building **scalable, production-ready applications**.
 
-I specialize in designing **complete systems end-to-end**, including:
+I enjoy designing and shipping complete products — from **frontend UI to backend architecture, database design, and cloud deployment.**
 
-• Modern Frontend Applications
-• Scalable Backend APIs
-• Database Architecture
-• Multi-Tenant SaaS Systems
-• Cloud Deployment & DevOps
-
-💡 I have built projects across multiple domains:
+💡 I have built systems across multiple domains including:
 
 * 🛒 **Ecommerce Platforms**
 * 🏢 **Multi-Tenant SaaS Applications**
@@ -28,7 +22,7 @@ I specialize in designing **complete systems end-to-end**, including:
 * 🔐 **Authentication Systems**
 * ⚡ **High Performance APIs**
 
-My focus is building **real systems that scale**, not just small demos.
+I focus on building **real-world production systems**, not just demo projects.
 
 ---
 
@@ -50,11 +44,11 @@ My focus is building **real systems that scale**, not just small demos.
 
 * Node.js
 * Express.js
-* REST APIs
+* REST API Development
 * Authentication & Authorization
-* Scalable API Architecture
-* Microservices Concepts
+* Scalable Backend Architecture
 * Async Processing
+* Microservices Concepts
 
 ## Database & Data Layer
 
@@ -63,7 +57,7 @@ My focus is building **real systems that scale**, not just small demos.
 * SQL
 * Data Modeling
 * Query Optimization
-* Multi-Tenant Database Design
+* Multi-Tenant Architecture
 
 ## DevOps & Infrastructure
 
@@ -71,7 +65,7 @@ My focus is building **real systems that scale**, not just small demos.
 * CI/CD Pipelines
 * Cloud Deployment
 * Linux Server Management
-* Git / GitHub
+* Git & GitHub
 * Containerized Applications
 
 ---
@@ -99,15 +93,20 @@ My focus is building **real systems that scale**, not just small demos.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahil2k19&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahil2k19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2k19&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2k19&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2k19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 📈 3D Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2k19&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahil2k19&theme=tokyonight"/>
 </p>
 
 ---
@@ -115,15 +114,15 @@ My focus is building **real systems that scale**, not just small demos.
 # 🧩 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sai-GrieZ?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Sai-GrieZ?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -153,11 +152,11 @@ My focus is building **real systems that scale**, not just small demos.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahil2k19&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sahil2k19&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-⚡ Building Scalable Systems • 🚀 Shipping Real Products • 💡 Always Learning
+💻 Building Scalable Systems • 🚀 Shipping Real Products • ⚡ Always Learning
 </p>
